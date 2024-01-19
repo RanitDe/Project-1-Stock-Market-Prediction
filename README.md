@@ -1,7 +1,7 @@
-**Stock Market Prediction
-**- Level: Easy
--**Dataset **:
-https://www.kaggle.com/datasets/luisandresgarcia/stock-market-prediction
+**Stock Market Prediction**
+
+**Level**: Easy
+**Dataset**: https://www.kaggle.com/datasets/luisandresgarcia/stock-market-prediction
 
 **PURPOSE**
 Non-professional investors often try to find an interesting stock among those in an index (such as the Standard and Poor's 500, Nasdaq, etc.). They need only one company, the best, and they don't want to fail (perform poorly). So, the metric to optimize is accuracy, described as:

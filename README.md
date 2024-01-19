@@ -1,6 +1,7 @@
 **Stock Market Prediction**
 
 **Level**: Easy
+
 **Dataset**: https://www.kaggle.com/datasets/luisandresgarcia/stock-market-prediction
 
 **PURPOSE**
